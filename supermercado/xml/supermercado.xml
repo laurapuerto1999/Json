@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supermercados>
+    <nombre>Ahorramas</nombre>
+    <coordenadas>40.305835395348296, -3.4572815905851644</coordenadas>
+    <direccion>"Avenida de Madrid,11,28500,Arganda Del Rey,Madrid"</direccion>
+    <productos>
+      <carniceria>
+         <producto>hamburguesa</producto>
+         <carne>vacuno</carne>
+         <unidades>1</unidades>
+         <fresco>true</fresco>
+         <cantidad>1</cantidad>
+         <unidadMedida>kilo</unidadMedida>
+         <precio>4.50</precio>
+         <oferta>false</oferta>
+         <comprado>true</comprado>
+
+        </carniceria>
+
+        <carniceria>
+         <producto>filetes de ternera</producto>
+         <carne>vacuno</carne>
+         <unidades>1</unidades>
+         <fresco>true</fresco>
+         <cantidad>1</cantidad>
+         <unidadMedida>kilo</unidadMedida>
+         <precio>6.80</precio>
+         <oferta>false</oferta>
+         <comprado>false</comprado>
+
+        </carniceria>
+
+        <frutasyverduras>
+         <producto>tomates</producto>
+         <unidades>500</unidades>
+         <fresco>true</fresco>
+         <cantidad>500</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <precio>2.20</precio>
+         <oferta>false</oferta>
+         <comprado>true</comprado>
+
+        </frutasyverduras>
+
+        <frutasyverduras>
+         <producto>peras</producto>
+         <unidades>500</unidades>
+         <fresco>true</fresco>
+         <cantidad>500</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <precio>1.50</precio>
+         <oferta>false</oferta>
+         <comprado>true</comprado>
+         </frutasyverduras>
+
+         <bolleria>
+         <producto>magdalenas</producto>
+         <unidades>500</unidades>
+         <fresco>false</fresco>
+         <cantidad>500</cantidad>
+         <unidadMedida>gramos</unidadMedida>
+         <precio>1.10</precio>
+         <oferta>false</oferta>
+         <comprado>true</comprado>
+         
+         </bolleria>
+         </productos>
+         </supermercados>
+
+         <supermercados>
+           <nombre>Aldi</nombre>
+           <coordenadas>40.35358851656816, -3.5495817451070857</coordenadas>
+           <direccion>C. Industria, 4, 28522 Rivas-Vaciamadrid, Madrid</direccion>
+           <productos>
+             <pescaderia>
+              <producto>Lubina</producto>
+              <unidades>1</unidades>
+              <fresco>true</fresco>
+              <cantidad>1</cantidad>
+              <unidadMedida>kilo</unidadMedida>
+              <precio>10.50</precio>
+              <oferta>false</oferta>
+              <comprado>false</comprado>
+              </pescaderia>
+
+              <productoslacticos>
+               <producto>yogures de fresa</producto>
+               <unidades>800</unidades>
+               <fresco>false</fresco>
+               <cantidad>800</cantidad>
+               <unidadMedida>gramos</unidadMedida>
+               <precio>2.60</precio>
+               <oferta>false</oferta>
+               <comprado>true</comprado>
+               </productoslacticos>
+
+               <polleria>
+                <producto>pollo entero</producto>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <cantidad>1</cantidad>
+                <unidadMedida>kilo</unidadMedida>
+                <precio>4.50</precio>
+                <oferta>false</oferta>
+                <comprado>false</comprado>
+                </polleria>
+            </productos>
+            </supermercados>
+
+            <supermercados>
+             <nombre>Carrefour</nombre>
+             <coordenadas>40.342899717180245, -3.5359562940086833</coordenadas>
+             <direccion>Polígonono Industrial Santa Ana, Av. de la Técnica, s/n, 28522 Rivas-Vaciamadrid, Madrid</direccion>
+             <productos>
+              <bolleria>
+                <producto>napolitanas</producto>
+                <unidades>500</unidades>
+                <fresco>false</fresco>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+                <precio>2.50</precio>
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                </bolleria>
+                
+                 <charcuteria>
+                <producto>lomo</producto>
+                <unidades>200</unidades>
+                <fresco>true</fresco>
+                <cantidad>200</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+                <precio>4.20</precio>
+                <oferta>false</oferta>
+                <comprado>true</comprado>
+                </charcuteria>
+              </productos>
+              </supermercados>
+                
+
+
+
+
+         
+
+
+
+
+

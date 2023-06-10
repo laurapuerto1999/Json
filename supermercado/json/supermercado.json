@@ -1,0 +1,163 @@
+{
+    "supermercados":[
+        {
+           "Nombre":"Ahorramas",
+           "Coordenadas":"40.305835395348296, -3.4572815905851644",
+           "direccion": "Avenida de Madrid,11,28500,Arganda Del Rey,Madrid",
+           "productos":[
+            {
+                "carniceria":[
+                    {
+                    "producto":"hamburguesa",
+                    "carne":"vacuno",
+                    "unidades": 1,
+                    "fresco":true,
+                    "cantidad":1,
+                    "unidadMedida":"kilo",
+                    "precio":4.50,
+                    "oferta": "false",
+                    "comprado":true
+                    },
+                    {
+                        "producto":"filetes de ternera",
+                        "carne": "vacuno",
+                        "unidades":1,
+                        "fresco":"true",
+                        "cantidad":1,
+                        "unidadMedida":"kilo",
+                        "precio": 6.80,
+                        "oferta":"false",
+                        "comprado": "false"
+                    }
+                  
+                ],
+ 
+                "frutas y verduras":[
+                    {
+                        "producto":"tomates",
+                        "unidades":500,
+                        "unidadMedida":"gramos",
+                        "precio":2.20,
+                        "fresco":true,
+                        "cantidad":500,
+                        "oferta":"false",
+                        "comprado":true
+                    }, 
+                    {
+                        "producto ":"peras",
+                        "unidades":500,
+                        "unidadMedida":"gramos",
+                        "cantidad":500,
+                        "precio":1.50,
+                        "fresco":"true",
+                        "oferta":"false",
+                        "comprado":"true"
+
+                    }
+                ],
+
+                "Bolleria":[
+                    {
+                        "producto": "Magdalenas",
+                        "unidades": 500,
+                        "unidadMedida":"gramos",
+                        "cantidad":500,
+                        "precio":1.10,
+                        "fresco":"false",
+                        "oferta": "false",
+                        "comprado":"true"
+                    
+                    }
+                ]
+            }
+        
+        ]
+        },
+         {
+            "Nombre":"Aldi",
+            "Coordenadas":"40.35358851656816, -3.5495817451070857",
+            "Direccion":"C. Industria, 4, 28522 Rivas-Vaciamadrid, Madrid",
+            "productos":[
+                {
+                    "pescaderia":[
+                        {
+                            "producto":"Lubina",
+                            "unidades": 1,
+                            "unidadMedida":"Kilo",
+                            "cantidad":1,
+                            "precio": 10.50,
+                            "fresco":"true",
+                            "oferta":"false",
+                            "comprado":"false"
+                        }
+
+                    ],
+
+                    "productos lacticos":[
+                        {
+                            "producto":"yogures de fresa",
+                            "unidades":800,
+                            "unidadMedida":"gramos",
+                            "cantidad":800,
+                            "precio":2.60,
+                            "fresco":"false",
+                            "oferta":"false",
+                            "comprado":"true"
+
+                        }
+                    ],
+
+                    "polleria":[
+                        {
+                            "producto":"pollo entero",
+                            "unidades":1,
+                            "unidadMedida":"kilo",
+                            "cantidad":1,
+                            "precio":4.50,
+                            "fresco":"true",
+                            "oferta":"false",
+                            "comprado":"false"
+                        }
+                    ]
+
+                }
+            ]
+            
+         },
+         {
+            "nombre":"carrefour",
+            "coordenadas":"40.342899717180245, -3.5359562940086833",
+            "direccion":"Polígonono Industrial Santa Ana, Av. de la Técnica, s/n, 28522 Rivas-Vaciamadrid, Madrid",
+            "productos":[
+                {
+                    "Bolleria":[
+                        {
+                            "producto":"napolitanas",
+                            "unidades":500,
+                            "unidadMedida":"gramos",
+                            "cantidad":500,
+                            "precio":2.50,
+                            "fresco":"false",
+                            "oferta":"false",
+                            "comprado":"true"
+
+                        }
+                    ],
+                    
+                    "charcuteria":[
+                        {
+                            "producto": "lomo",
+                            "unidades":200,
+                            "unidadMedida":"gramos",
+                            "cantidad":200,
+                            "precio":4.20,
+                            "fresco":"true",
+                            "oferta":"false",
+                            "comprado":"true"
+                        }
+                    ]
+                }
+            ]
+         }
+    ]
+}  
